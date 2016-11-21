@@ -2,14 +2,17 @@
 Taken from https://www.thepolyglotdeveloper.com/2015/10/create-a-simple-restful-api-with-node-js/
 
 To run:
-cd c:\stash\SimpleAPI (or wherever SimpleAPI is located)
+Open a cmd tool
+cd c:\SimpleAPI (or wherever SimpleAPI is located)
+npm install
 node app.js
 
 Then open a browser and go to:
 http://localhost:3000/ 
-This will call the "/" endpoint
+to call the "/" endpoint
+
 Go to http://localhost:3000/account
-to call the "/account" endpoint
+to call the "/account" endpoint.
 
 
 All endpoints are in the routes/routes.js file.
