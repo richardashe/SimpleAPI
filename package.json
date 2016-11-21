@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-api-simple",
+  "version": "1.0.0",
+  "description": "A simple Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Richard Ashe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
